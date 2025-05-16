@@ -1,5 +1,5 @@
 ---
-title: 股票交易真多是反人性的
+title: 股票交易是反人性的
 date: 2025-05-16 22:14:51
 layout: post
 categories: 日记
